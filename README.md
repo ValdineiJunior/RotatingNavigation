@@ -8,7 +8,7 @@ Rotating Navigation
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/02Project/
+- https://valdineijunior.github.io/03Project/
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
