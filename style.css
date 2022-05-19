@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
-
 * {
   box-sizing: border-box;
 }
@@ -35,6 +33,8 @@ body {
   transform: rotate(-20deg);
 
 }
+
+/* ---Top Menu--- */
 
 .circle-container {
   position: fixed;
@@ -80,8 +80,9 @@ body {
   transform: rotate(90deg);
   transform-origin: top left;
 }
+/* ---Side Menu--- */
 
-.container.container.show-nav + nav li {
+.container.show-nav + nav li {
   transform: translateX(0);
   transition-delay: 0.3s;
 }
@@ -122,6 +123,7 @@ nav ul li + li + li {
   transform: translateX(-200%);
 }
 
+/* --- Content Home --- */
 
 .content img {
   max-width: 100%;
